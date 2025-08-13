@@ -2,7 +2,7 @@ from openai import OpenAI
 
 client = OpenAI(
   base_url="https://ai.liara.ir/api/v1/689b4cbf527330d3c2723158",
-  api_key= "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOiI2ODliNGE3YzIxMGQ1YjA5MDYxNjk4MDciLCJ0eXBlIjoiYXV0aCIsImlhdCI6MTc1NTAwOTE0Nn0.uf5plkCpHZ6nZBJMOn7ONgDJhz3F0oOslQU5GS4SUqk" \
+  api_key= "" \
   )
 
 completion = client.chat.completions.create(
