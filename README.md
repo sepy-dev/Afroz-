@@ -34,7 +34,7 @@ Install via pip:
 ```bash
 pip install fastapi uvicorn pydantic rapidfuzz
 pip install httpx aiosqlite beautifulsoup4
-
+```
 Packages Overview:
 Package	Purpose	Docs
 fastapi	API server	Docs
@@ -89,4 +89,4 @@ Afroz is currently an MVP-level project, focusing on building and optimizing alg
 این پروژه در حال حاضر در سطح MVP است و تمرکز اصلی روی ساخت و بهینه‌سازی الگوریتم‌ها برای همسان‌سازی رزومه‌ها با آگهی‌های شغلی است.
 
 
----
+
