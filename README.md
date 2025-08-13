@@ -10,7 +10,7 @@
 
 ---
 
-## 🇬🇧 English Version
+## English Version
 
 > ⚠️ **Attention:** This project is currently in **algorithm development and testing**. Features may change frequently.  
 
